@@ -1,0 +1,149 @@
+- name: ChatGPT
+  description: OpenAI's conversational AI for writing, coding, and analysis
+  category: LLM
+  url: https://chat.openai.com
+  docs_url: https://platform.openai.com/docs
+  icon: 🤖
+  pricing: freemium
+  api_available: true
+  tags: [writing, coding, analysis]
+
+- name: Claude
+  description: Anthropic's AI assistant focused on safety and helpfulness
+  category: LLM
+  url: https://claude.ai
+  docs_url: https://docs.anthropic.com
+  icon: 🧠
+  pricing: freemium
+  api_available: true
+  tags: [writing, coding, research]
+
+- name: Cursor
+  description: AI-powered code editor built on VS Code
+  category: Code
+  url: https://cursor.sh
+  docs_url: https://docs.cursor.sh
+  icon: ⌨️
+  pricing: freemium
+  api_available: false
+  tags: [coding, productivity]
+
+- name: Midjourney
+  description: AI image generation through Discord or web interface
+  category: Image
+  url: https://midjourney.com
+  docs_url: https://docs.midjourney.com
+  icon: 🎨
+  pricing: paid
+  api_available: false
+  tags: [image, design, art]
+
+- name: ElevenLabs
+  description: AI voice cloning and text to speech platform
+  category: Audio
+  url: https://elevenlabs.io
+  docs_url: https://docs.elevenlabs.io
+  icon: 🎙️
+  pricing: freemium
+  api_available: true
+  tags: [audio, voice, speech]
+
+- name: Perplexity
+  description: AI-powered search engine with real-time web access
+  category: Search
+  url: https://perplexity.ai
+  docs_url: https://docs.perplexity.ai
+  icon: 🔍
+  pricing: freemium
+  api_available: true
+  tags: [search, research]
+
+- name: GitHub Copilot
+  description: AI pair programmer that suggests code in your editor
+  category: Code
+  url: https://github.com/features/copilot
+  docs_url: https://docs.github.com/copilot
+  icon: 👾
+  pricing: paid
+  api_available: false
+  tags: [coding, productivity]
+
+- name: Runway
+  description: AI video generation and editing platform
+  category: Video
+  url: https://runwayml.com
+  docs_url: https://docs.runwayml.com
+  icon: 🎬
+  pricing: freemium
+  api_available: true
+  tags: [video, creative]
+
+- name: Whisper
+  description: OpenAI's open source speech to text model
+  category: Audio
+  url: https://openai.com/research/whisper
+  docs_url: https://platform.openai.com/docs/guides/speech-to-text
+  icon: 🎤
+  pricing: free
+  api_available: true
+  tags: [audio, transcription]
+
+- name: Vercel v0
+  description: AI UI generator that produces React components from prompts
+  category: Code
+  url: https://v0.dev
+  docs_url: https://v0.dev/docs
+  icon: ▲
+  pricing: freemium
+  api_available: false
+  tags: [coding, design, UI]
+
+- name: Notion AI
+  description: AI writing and knowledge management built into Notion
+  category: Productivity
+  url: https://notion.so
+  docs_url: https://www.notion.so/help/guides/using-notion-ai
+  icon: 📝
+  pricing: paid
+  api_available: false
+  tags: [writing, productivity, notes]
+
+- name: Gemini
+  description: Google's multimodal AI assistant
+  category: LLM
+  url: https://gemini.google.com
+  docs_url: https://ai.google.dev/docs
+  icon: ✨
+  pricing: freemium
+  api_available: true
+  tags: [writing, coding, research]
+
+- name: Stable Diffusion
+  description: Open source image generation model
+  category: Image
+  url: https://stability.ai
+  docs_url: https://platform.stability.ai/docs
+  icon: 🖼️
+  pricing: free
+  api_available: true
+  tags: [image, art, open-source]
+
+- name: Windsurf
+  description: AI-powered code editor by Codeium
+  category: Code
+  url: https://codeium.com/windsurf
+  docs_url: https://docs.codeium.com
+  icon: 🏄
+  pricing: freemium
+  api_available: false
+  tags: [coding, productivity]
+
+- name: Descript
+  description: AI-powered video and podcast editing platform
+  category: Video
+  url: https://descript.com
+  docs_url: https://help.descript.com
+  icon: 🎞️
+  pricing: freemium
+  api_available: false
+  tags: [video, audio, editing]
