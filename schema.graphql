@@ -1,0 +1,17 @@
+type AiTool {
+  apiAvailable: Boolean
+  category: String!
+  description: String!
+  docsUrl: String
+  icon: String
+  name: String!
+  pricing: String
+  tags: [String!]
+  url: String!
+}
+
+type Mutation
+
+type Query {
+  aiTools(category: String, search: String, sort: String): [AiTool!]!
+}
