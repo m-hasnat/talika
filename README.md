@@ -69,6 +69,16 @@ Visit `http://localhost:3000/graphiql` in development.
 bundle exec rspec
 ```
 
+## Schema Generation
+
+To generate the GraphQL schema file:
+
+```bash
+bundle exec rake graphql:schema
+```
+
+This generates `schema.graphql` which can be used by frontend teams for code generation with tools like `graphql-codegen`.
+
 ## Future Improvements
 
 - Add ABA centers directory
